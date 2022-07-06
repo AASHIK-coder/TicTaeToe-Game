@@ -1,2 +1,2 @@
-# TicToc-Game
+# TicTaeToe-Game
 TicTaeToe game using Java
